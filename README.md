@@ -1,0 +1,2 @@
+# Blog-escritor
+blog sencillo
